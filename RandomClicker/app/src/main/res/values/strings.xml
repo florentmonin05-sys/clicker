@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Clicker</string>
+    <string name="service_desc">Simule un appui à l\'écran à intervalles aléatoires, à la position choisie par toi.</string>
+</resources>
